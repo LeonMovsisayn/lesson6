@@ -1,7 +1,0 @@
-version: '3.3'
-
-services:
-  flask_app:
-    image: mleonk2020/flask_app_example
-    ports: 
-    - 5018:5000
